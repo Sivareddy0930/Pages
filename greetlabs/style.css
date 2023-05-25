@@ -1,0 +1,19 @@
+.background-img{
+    background-image:url(./images/img-3.jpg);
+    background-size: cover;
+    height: 740px;;
+}
+.navbar ul li a{
+    color:white;
+    font-weight:bold;
+}
+.bodycolor{
+    background-color: rgb(90, 86, 86);
+}
+/* .container col-4, h6,h2{
+    color:white;
+} */
+.margin {
+    margin: 2%;
+
+}

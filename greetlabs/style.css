@@ -16,11 +16,20 @@ h5{
     color:white;
     font-weight:bold;
 }
-.bodycolor{
-    background-color: rgb(236, 173, 244);
+.nav-tabs {
+    background-color: rgb(109, 112, 111);
+    border-radius:10px;
+    border-style: none;
+    border: 0.4px solid ;
 }
-.card-group card p,{
-    background-color: rgb(92, 145, 43);
+.bodycolor{
+    background-color: rgb(204, 81, 218);
+}
+.cards-header-background{
+    background-color: rgb(244, 110, 9);
+}
+.cards-body-background{
+    background-color: rgb(79, 221, 240);
 }
 /* .container col-4, h6,h2{
     color:white;

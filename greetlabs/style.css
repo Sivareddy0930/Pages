@@ -31,6 +31,9 @@ h5{
 .bodycolor{
     background-color: rgb(233, 147, 147);
 }
+.breadcrumb-textstyle {
+    font-weight:bolder;
+}
 .cards-header-background{
     background-color: rgb(230, 71, 232);
 }
@@ -107,9 +110,9 @@ hr{
   border-radius: 50%;
 }
 
-.fa:hover {
+/* .fa:hover {
     opacity: 0.7;
-}
+} */
 
 .fa-facebook {
   background: #3B5998;
@@ -119,4 +122,40 @@ hr{
 .fa-twitter {
   background: #55ACEE;
   color: white;
+}
+/* ------------------------------------------------------- */
+.icon-text{
+    color:white;
+    text-decoration:none;
+}
+/* ------------------------------------------------------------------------ */
+/* company page styles */
+.company-background-img{
+    background-image:url(./images/companypageimg.jpg);
+    background-size:contain;
+    background-repeat: no-repeat;
+    height: 740px;
+}
+
+.company-text-whitebold{
+    color:white;
+    font-weight:1000;
+    font-size:x-large;
+}
+/* ---------------------------------------------------------- */
+/* services page */
+.services-text-decoration{
+    color: white;
+    font-weight: 700;
+
+}
+.card-background-img {
+    color: white;
+    background-size: cover;
+
+}
+.services-text-whitebold{
+    color:white;
+    font-weight:1000;
+    font-size:x-large;
 }

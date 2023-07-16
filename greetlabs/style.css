@@ -159,3 +159,13 @@ hr{
     font-weight:1000;
     font-size:x-large;
 }
+
+/* ------------------------------------------------ */
+
+.hireus{
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 20px;
+    font-size:50px;
+    
+}
